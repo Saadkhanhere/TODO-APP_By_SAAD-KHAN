@@ -1,4 +1,8 @@
-//Todo list app by Saad Khan Roll No: WM9801
+// =========================================================
+// * Saad Khan Roll No:WM9801
+// =========================================================
+// * Email saadkhanhere@gmail.com
+// =========================================================
 //features
 //store in localstorage of browser
 //delete list items
